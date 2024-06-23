@@ -22,7 +22,7 @@ s x b d k  p c     v
 ```
 
 ## 0.1
-![image](https://github.com/Manueljlin/wew/assets/11275573/1e04793d-b79b-4e0d-861e-894facfb6f63)
+![image](https://github.com/Manueljlin/wew/assets/11275573/5660adff-0c43-4d2d-b064-8ed348a19a1e)
 ```
 w m j b f    l e o
 z g h y t  q n a i u
