@@ -1,10 +1,11 @@
-# wew
+# bopo
 Alt keyboard layout optimized for Pinyin inspired by Canary:
 - Slight bias on right hand that's balanced by placing space and your own shortcuts and layers on the left thumb keys (just trust me bro)
 - Emphasis on 1) low sfb and 2) a crazy amount of rolls in that order
 - Right section has the vowel cluster. Vowels make up 60% of the last letters of the syllables (remaining 40% being `n` and `g`) but only 2% of the initial ones. That means that more often than not, you'll start typing a syllable on the left half and finish on the right like a Steno russian roulette.
 - Unlike Canary, there's more pinky usage, but it's for letters that are overwhelmingly used either zero times or once within the same syllable. Most common combined consonant pairs are `ng` (~55%), `sh` (~15%), `zh` (~15%) and `ch` (~14%) covering pretty much all of that.
 
+Name is a pun on bépo and bopomofo
 Stats from [oxey's playground](https://oxey.dev/playground/) <br>
 Made by analyzing data published by [Jun Da, Ph.D at Middle Tennessee State University](https://lingua.mtsu.edu/chinese-computing/phonology/)
 
